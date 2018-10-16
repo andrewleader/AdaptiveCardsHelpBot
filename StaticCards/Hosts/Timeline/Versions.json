@@ -1,0 +1,123 @@
+﻿{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "text": "Client"
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "weight": "Bolder",
+              "text": "AdaptiveCard version"
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Windows 10",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "1.1",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "size": "Small",
+              "text": "* Build 17633",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "size": "Small",
+              "text": "1.1",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "size": "Small",
+              "text": "* Build 16299",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "size": "Small",
+              "text": "1.0",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

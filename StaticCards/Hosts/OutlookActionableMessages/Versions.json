@@ -1,0 +1,317 @@
+﻿{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "text": "Client"
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "weight": "Bolder",
+              "text": "AdaptiveCard version"
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Outlook on the web for Office 365",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "1.0",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Office 365 ProPlus Monthly Channel",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "1.0",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "size": "Small",
+              "text": "* Version 1805, Build 9330",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "size": "Small",
+              "text": "1.0",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Office 365 ProPlus Semi-Annual Channel (Targeted)",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "Coming soon",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Office 365 ProPlus Semi-Annual Channel",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "Coming soon",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Outlook 2016 for Mac",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "Coming soon",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Outlook for iOS",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "Coming soon",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Outlook for Android",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "Coming soon",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Office Professional Plus 2016",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "Not supported",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Exchange 2016 On-Premises Outlook on the web",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "Not supported",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}

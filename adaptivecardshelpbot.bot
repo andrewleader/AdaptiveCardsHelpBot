@@ -1,0 +1,60 @@
+{
+  "name": "adaptivecardshelpbot",
+  "padlock": "IdUVatLn2cKNtiAOuRN32w==!30uQ30zYTXjTI98amA0S1jc1IpW+U97Cqj+mPFdByyU6eMVHBU1QnSxFRZxswqWW",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "47c80630-3d74-4b3e-a2f4-57e6368cd8c6",
+      "resourceGroup": "AdaptiveCards",
+      "serviceName": "adaptivecardshelpbot",
+      "type": "abs",
+      "name": "adaptivecardshelpbot",
+      "id": "1"
+    },
+    {
+      "connectionString": "6ajG0f9nP6f+xEkbm4jmEA==!O6echYISYJ9U17p/zorwMit2TBe2PRPpDoeCt9ycwSKIDD7xmDx2ClxuL92MAJFdtQH2BvVqYQDMbHnnC2QWOxbD6H/eRxMky9rmTAU1oDApz9eDe12+Flyj1eAaPuEol+tJJZ+fli9UEL/8As62e/5UKRDHDd67xsmcpIDvUdNJW8T8UQdJg5AveOjPDCimLc6xdzFE9AfMQwQ7h8NclKbZxxVYmtL0Y8eZ4rs4dQw=",
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "47c80630-3d74-4b3e-a2f4-57e6368cd8c6",
+      "resourceGroup": "AdaptiveCards",
+      "serviceName": "adaptivecardshelpbot",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "cdd6fc34-6cbe-42fd-93da-902eed9ba95a",
+      "appPassword": "/pcvM16WNw4LKBlbxt2+dQ==!QE9+3vrPuCFrqdnuZ9N+m9jCtveMZ0o96hb+hnhxw4s=",
+      "endpoint": "https://adaptivecardshelpbot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "9sgXIb27OBNbekPV/eTIOQ==!bHGms3onZn01ofyTobYYpUdtP9HQbS4lr6DlyiadHB6xi5Of05bFt0cvtN3b484q",
+      "applicationId": "d67cfd69-e4b9-4b48-b788-a2611f105575",
+      "apiKeys": {},
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "47c80630-3d74-4b3e-a2f4-57e6368cd8c6",
+      "resourceGroup": "AdaptiveCards",
+      "serviceName": "adaptivecardshelpbotoiprr7",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "09a3552b-998b-49ac-b011-2f56df27fa90",
+      "authoringKey": "tLpRfhsn5x6CQoIiRnV67w==!B3rh/05PW7nnzaOq6F3ILdYTRVoJrQqLCEChdfWTYJDFxssd0mwph80+QaJi75qj",
+      "region": "westus",
+      "type": "luis",
+      "name": "AdaptiveCardsHelpBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+﻿{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "weight": "Bolder",
+              "text": "Client"
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "weight": "Bolder",
+              "text": "AdaptiveCard version"
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "WebChat",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "1.0",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Microsoft Teams",
+              "wrap": true
+            }
+          ],
+          "width": "stretch"
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "horizontalAlignment": "Right",
+              "text": "1.0",
+              "wrap": true
+            }
+          ],
+          "width": "auto"
+        }
+      ]
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0"
+}
